@@ -1,6 +1,6 @@
 # suris
 Este proyecto ayudara
-## Creditos
+## CREDITOS
     - karim
     - ale
     - kathy
@@ -16,3 +16,5 @@ Este proyecto ayudara
 | Tuesday | chicken | $8    |$6    |
 ## como desplegar la aplicacion
 - Para desplegar la aplicacion se realiza lo siguiente
+## Cambios en dev.v1
+-Los cambios son xxxx
