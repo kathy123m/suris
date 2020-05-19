@@ -14,3 +14,5 @@ Este proyecto ayudara
 | Tuesday | chicken | $8    |w   |
 | sqlite  | pasta   | $6    |s   |
 | Tuesday | chicken | $8    |$6    |
+## como desplegar la aplicacion
+- Para desplegar la aplicacion se realiza lo siguiente
