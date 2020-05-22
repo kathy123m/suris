@@ -1,6 +1,6 @@
 # suris
 Este proyecto ayudara
-## Creditos
+## CREDITOS
     - karim
     - ale
     - kathy
@@ -16,3 +16,15 @@ Este proyecto ayudara
 | Tuesday | chicken | $8    |$6    |
 ## como desplegar la aplicacion
 - Para desplegar la aplicacion se realiza lo siguiente
+## Cambios en dev.v1
+-Los cambios son xxxx
+## Cambios en  docs.v1
+-funcionles:
+		-Se permitirá el registro de pedidos de poder aprobarse los datos del pedido deben estar completos.
+		-El sistema permitirá aprobar, cambiar o actualizar.
+		-Como usuario, quiero que la aplicación sea fácil de usar, de modo que no tenga que pasar mucho tiempo aprendiendo a usarla.
+-no funcionales:
+		-El sistema debe ser capaz de procesar los pedidos.
+		-Los datos modificados en la base de datos deben ser actualizados
+		-El sistema debe proporcionar mensajes de error que sean informativos y orientados a usuario final.
+		El sistema debe poseer interfaces gráficas bien formadas.
