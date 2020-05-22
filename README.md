@@ -19,12 +19,18 @@ Este proyecto ayudara
 ## Cambios en dev.v1
 -Los cambios son xxxx
 ## Requerimientos  docs.v1
--FUNCIONALES
-Se permitirá el registro de pedidos de poder aprobarse los datos del pedido deben estar completos.
-El sistema permitirá aprobar, cambiar o actualizar.
-Como usuario, quiero que la aplicación sea fácil de usar, de modo que no tenga que pasar mucho tiempo aprendiendo a usarla.
--NO FUNCIONALES
-El sistema debe ser capaz de procesar los pedidos.
-Los datos modificados en la base de datos deben ser actualizados
-El sistema debe proporcionar mensajes de error que sean informativos y orientados a usuario final.
-El sistema debe poseer interfaces gráficas bien formadas.
+*FUNCIONALES
+*Se permitirá el registro de pedidos de poder aprobarse los datos del pedido deben estar completos.
+
+*El sistema permitirá aprobar, cambiar o actualizar.
+
+*Como usuario, quiero que la aplicación sea fácil de usar, de modo que no tenga que pasar mucho tiempo aprendiendo a usarla.
+
+* NO FUNCIONALES
+*El sistema debe ser capaz de procesar los pedidos.
+
+*Los datos modificados en la base de datos deben ser actualizados
+
+*El sistema debe proporcionar mensajes de error que sean informativos y orientados a usuario final.
+
+*El sistema debe poseer interfaces gráficas bien formadas.
